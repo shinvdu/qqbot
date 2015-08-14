@@ -13,12 +13,7 @@
   ],
 
   "description": "QQ adapter for Hubot, and also A dependence robot lives on webQQ",
-
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://raw.github.com/xhan/qqbot/master/LICENSE"
-  }],
-
+  "license": "MIT",
   "repository" : {
     "type": "git",
     "url": "https://github.com/xhan/qqbot.git"
